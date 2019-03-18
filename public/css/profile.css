@@ -1,0 +1,56 @@
+body{
+    background-color: #eceeef;
+}
+
+.head{
+    color: rgba(42, 22, 121, 0.66);
+    margin-top: 0px;
+}
+
+.error{
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+.list li{
+
+    display: inline-block;
+    padding-left: 11px;
+    margin-top: 7px;
+
+}
+
+.list{
+    margin-left: auto;
+}
+
+
+button{
+    background-color: rgba(0,0,0,.15);
+    border-radius: 1%;
+}
+
+.index{
+    margin-top: 11px;
+}
+
+
+.postStatus img{
+    margin-bottom: 11px;
+}
+
+.aboutMe{
+    width: 290px;
+}
+
+#crop_tool{
+    background: rgba(255,255,255,0.5);
+    border:1px dashed #ff6666;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+}
+
+
+
+

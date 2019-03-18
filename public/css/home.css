@@ -1,0 +1,18 @@
+a {
+    color: rgba(51, 72, 158, 0.93);
+    text-decoration: none;
+}
+
+a:hover{    color: rgb(91, 83, 121);
+    text-decoration: none;
+}
+
+.postStatus{
+    margin-top: 10px;
+}
+
+#map{
+    height: 500px;
+    width: 400px;
+    margin: 0 auto;
+}
